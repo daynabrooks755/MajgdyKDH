@@ -44,13 +44,6 @@ As the project is designed to use with the Figma-Plugin their is right now no si
 
 - CEO: Jakob Sievers
 
-- Developers:
-
-  - Sascha Metz (Full Stack)
-  - Tobias Metz (Front End)
-  - Jonas Hartweg (Front End, UI/UX-Expert)
-  - Valentin Hehl (Security, Backend)
-
 - Designer:
 
   - Reimar Servas
@@ -103,13 +96,6 @@ Sascha Metz
 
 - https://github.com/smetzdev
 
-Jonas Hartweg
-
-- https://github.com/johnny353535
-
-Reimar Servas
-
-- https://github.com/reimar
 
 Valentin Hehl
 
